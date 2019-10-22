@@ -1,0 +1,20 @@
+Program E5ait10
+var
+v,r:real;
+x,y,t,i:integer;
+ak,ao32:real;
+begin
+t :=3;
+while r<10 and r>0 or t!=3 do
+begin
+t:=t-1;
+r:=r+1;
+{fsdfsdfds 2 5 2345 5092 58}
+end;
+write (t,r);
+read(x) ;
+for t:=t to 54 do begin
+{12312 while end././.'p;.['.//./.[}
+t:=(54.72+54.57*123214)div (3-1);
+end;
+end.

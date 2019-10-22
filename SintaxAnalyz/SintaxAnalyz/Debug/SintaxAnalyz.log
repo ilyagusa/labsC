@@ -1,0 +1,53 @@
+﻿  Source.c
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(104,2): warning C4091: typedef : пропускается слева от "lex", когда ни одна переменная не объявлена
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(112,8): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(113,6): warning C4013: exit: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(189,13): warning C4013: strcmp: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(199,8): warning C4013: strcpy: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(568,13): warning C4033: "dec_list" должен возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(577,8): warning C4033: "dec" должен возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(585,13): warning C4033: "id_list" должен возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(592,9): warning C4033: "type" должен возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(605,13): warning C4033: "stmt_list" должен возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(619,8): warning C4033: "stmt" должен возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(629,8): warning C4033: "read" должен возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(641,8): warning C4033: "write" должен возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(653,8): warning C4033: "assign_" должен возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(676,10): warning C4033: "exp" должен возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(689,9): warning C4033: "exp" должен возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(695,10): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "int"
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(695,10): warning C4024: error: различные типы для формального и фактического параметров 1
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(709,12): warning C4033: "term" должен возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(727,10): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "int"
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(727,10): warning C4024: error: различные типы для формального и фактического параметров 1
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(734,8): warning C4033: "index_exp" должен возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(743,10): warning C4033: "body" должен возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(758,11): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "int"
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(758,11): warning C4024: error: различные типы для формального и фактического параметров 1
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(760,14): warning C4033: "body" должен возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(763,8): warning C4033: "body" должен возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(772,8): warning C4033: "while_" должен возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(780,13): warning C4033: "requirement" должен возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(790,13): warning C4033: "operation" должен возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(977,7): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(558): warning C4716: prog_name: должна возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(247): warning C4715: find: значение возвращается не при всех путях выполнения
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(550): warning C4716: prog: должна возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(569): warning C4716: dec_list: должна возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(578): warning C4716: dec: должна возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(586): warning C4716: id_list: должна возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(606): warning C4716: stmt_list: должна возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(595): warning C4716: type: должна возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(631): warning C4716: read: должна возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(620): warning C4716: stmt: должна возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(643): warning C4716: write: должна возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(654): warning C4716: assign_: должна возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(722): warning C4716: for_: должна возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(691): warning C4716: exp: должна возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(713): warning C4716: term: должна возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(735): warning C4716: index_exp: должна возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(764): warning C4716: body: должна возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(773): warning C4716: while_: должна возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(781): warning C4716: requirement: должна возвращать значение
+C:\Users\ilyag\source\repos\SintaxAnalyz\SintaxAnalyz\Source.c(791): warning C4716: operation: должна возвращать значение
+  SintaxAnalyz.vcxproj -> C:\Users\ilyag\source\repos\SintaxAnalyz\Debug\SintaxAnalyz.exe
